@@ -5,6 +5,6 @@ You need to use given repo to create your music list.
 
 ### Student Details
 
-Student ID: U1910225
-Full Name: Umidjon Abdugafforov
-Section:005
+### Student ID: U1910225
+### Full Name: Umidjon Abdugafforov
+### Section:005
